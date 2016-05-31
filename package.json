@@ -1,7 +1,7 @@
 {
-  "name": "react-with-flux-starter-kit",
+  "name": "react-with-redux",
   "version": "1.0.0",
-  "description": "Starter kit for React and Redux Pluralsight course by Cory House",
+  "description": "react-with-redux starter kit and demo app",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel test:watch open:src lint:watch",
@@ -67,6 +67,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/pluralsight-redux-starter"
+    "url": "https://github.com/namuthan/ReactWithRedux"
   }
 }
